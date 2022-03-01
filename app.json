@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "countriesAPI",
+    "slug": "countriesAPI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
